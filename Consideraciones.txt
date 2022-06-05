@@ -1,0 +1,13 @@
+Consideraciones:
+	+Menu como estaba especificado en el pdf de la clase.
+
+	+Faltan algunos datos en las clases (pendiente). Utilice datos generales NOMBRE, APELLIDO, DNI (validacion 8 caracteres numericos) para tratar de implementar todo lo 	visto.
+	+Carga por defecto de 1 sucursal.
+
+	+CBU ingresado por teclado no validado.
+
+	+Deposito solo a CBU que este en la BD
+
+	+Transferencia tanto a cuentas propias como CBU de otro lugar.
+	
+	+Validaciones de casi en todas las opciones (ejemplo mi cuenta es la Nº 20 y 22). Me va a permitir elegir solo entre esas opciones.
